@@ -5629,7 +5629,7 @@ document.addEventListener("DOMContentLoaded",()=>{
       return;
     }
     try {
-      const reg = await navigator.serviceWorker.register('./sw.js', {
+      const reg = await navigator.serviceWorker.register('/my-pwa-test/sw.js', {
         scope: './',
         updateViaCache: 'none'
       });
