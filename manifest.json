@@ -1,8 +1,8 @@
 {
   "name": "My File Manager",
   "short_name": "File Manager",
-  "id": "./",
-  "start_url": "./",
+  "id": "/my-pwa-test/",
+  "start_url": "/my-pwa-test/index.html"
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f2f7",
