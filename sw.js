@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mobile-v4-pwa-v12';
+const CACHE_NAME = 'mobile-v4-pwa-v13';
 
 const APP_SHELL = [
   './',
